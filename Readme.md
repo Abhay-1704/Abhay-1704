@@ -4,6 +4,6 @@
 
 ![GitHub Contribution Animation](./brickbreaker_with_paddle_looping.svg)
 
-*Watch the ball bre through my GitHub contributions! Updates automatically with each commit.*
+*Watch the ball break through my GitHub contributions! Updates automatically with each commit.*
 
 </div>
