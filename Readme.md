@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🎮 GitHub Contribution Breakout Gam
+## 🎮 GitHub Contribution Breakout Game
 
 ![GitHub Contribution Animation](./brickbreaker_with_paddle_looping.svg)
 
