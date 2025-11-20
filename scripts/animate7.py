@@ -209,7 +209,7 @@ def main(svg_file, output_file):
     
     # Paddle configuration
     initial_paddle_part_width = 10  # Base width for each part
-    paddle_growth = 5  # How much each part grows per hit
+    paddle_growth = 2  # How much each part grows per hit
     paddle_height = 10
     paddle_y = svg_height - 5  # Just above bottom
     
